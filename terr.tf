@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key = "AKIARCLXFB63SOHF7RNO"
-  secret_key = "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"
+  access_key = "AKIARCLXFB63T2HNLTIG"
+  secret_key = "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"
   region     = "ap-south-1"
 }
 resource "aws_instance" "i1" {
